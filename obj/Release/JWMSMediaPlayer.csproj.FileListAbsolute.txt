@@ -1,0 +1,15 @@
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Release\JWMSMediaPlayer.exe.config
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\Interop.WMPLib.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Release\JWMSMediaPlayer.exe
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Release\JWMSMediaPlayer.pdb
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Release\Interop.WMPLib.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.exe
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Release\JWMSMediaPlayer.pdb

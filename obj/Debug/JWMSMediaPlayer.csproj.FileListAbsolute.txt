@@ -1,0 +1,203 @@
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+c:\users\justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\fml1\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\fm2\JWMSMediaPlayer\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Justin\Desktop\HYPERBRUH\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.TrustInfo.xml
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.RemoveForm.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.application
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.RemoveForm.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.TrustInfo.xml
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Justin\Desktop\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.RemoveForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.TrustInfo.xml
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.RemoveForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.TrustInfo.xml
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.application
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.RemoveForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.TrustInfo.xml
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Sandip\Desktop\New folder (4)\New folder (3)\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.application
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.pdb
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.application
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.exe
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\JWMSMediaPlayer.pdb
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.RemoveForm.resources
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.HomeScreenForm.resources
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.PlaylistName.resources
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.Properties.Resources.resources
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.MusicPlayerForm.resources
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.VideoPlayerForm.resources
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.TrustInfo.xml
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.exe.manifest
+C:\Users\Justin\Desktop\updatedSolution_1_2\JWMSMediaPlayer\obj\Debug\JWMSMediaPlayer.application

@@ -1,0 +1,4 @@
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\bin\x86\Debug\JWMSMediaPlayer.exe.config
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\JWMSMediaPlayer\JWMSMediaPlayer\obj\x86\Debug\JWMSMediaPlayer.csproj.ResolveComReference.cache
